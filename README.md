@@ -11,7 +11,7 @@ Este projeto implementa uma ferramenta de **Traceroute** em Python utilizando **
 Para instalar as dependências necessárias, você pode usar o `pip`:
 
 ```bash
-pip install matplotlib
+sudo pip install matplotlib
 ```
 
 ## Funcionalidades
